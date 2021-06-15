@@ -1,6 +1,6 @@
 -  Hi, I’m @zoot-nix
 -  I’m interested in CyberSecurity
--  I’m currently learning Python and Ruby 
+-  Currently learning Networking and Penetration Testing 
 -  Reach me at theowaiszoot@gmail.com
 
 <!---
