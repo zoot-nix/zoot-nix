@@ -1,6 +1,6 @@
 -  Hi, I’m @zoot-nix
 -  I’m interested in CyberSecurity
--  Currently learning Networking and Penetration Testing 
+-  Currently into Networking and Penetration Testing 
 -  Reach me at theowaiszoot@gmail.com
 
 <!---
