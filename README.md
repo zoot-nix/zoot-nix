@@ -1,6 +1,6 @@
--  Hi, I’m @zoot-nix
--  I’m interested in CyberSecurity
--  Currently into Networking and Penetration Testing 
+-  Hi, I’m Owais Shaikh
+-  I’m interested in CyberSecurity and Web Development
+-  Currently learning Django and Bug Bounty
 -  Reach me at theowaiszoot@gmail.com
 
 <!---
