@@ -2,9 +2,9 @@
 
 ## :sassy_man:  About me
 - :school: I am an `IT Student` at Mumbai University.
-- :student: I’m currently pursuing my Bachelors Degree in `Information Technology`.
+- :student: I’ve recently graduated with my Bachelors Degree in `Information Technology`.
 - :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently open for: `An Intern` and this is my [RESUME](https://owaishaikh.github.io/resume/).
+- :thinking: I’m currently open for: `An Intern` and this is my [PORTFOLIO](http://owaishaikh.github.io/portfolio/).
 - :nerd_face: Always learning new things.
 - :computer: I’m currently learning `Blockchain` & `Swift`
 - 👨‍💻 All of my projects are available at [github.com/zoot-nix](https://github.com/zoot-nix?tab=repositories) 
