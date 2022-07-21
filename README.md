@@ -63,10 +63,10 @@
   </tr>
    <tr>
       <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+            <a href="#django">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>Ubuntu
+      <br>Django
     </td>
       <td align="center" width="96">
       <a href="#git" >
@@ -87,16 +87,16 @@
       <br>VS Code
     </td>
       <td align="center"  width="96">
-      <a href="#django">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="48" height="48" alt="Django" />
+        <a href="#swift" >
+        <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="48" height="48" alt="swift" />
       </a>
-      <br>Django
+      <br>Swift
     </td>
      <td align="center"  width="96">
-      <a href="#postgresql">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="psql" />
+      <a href="#xcode">
+        <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" width="48" height="48" alt="xcode" />
       </a>
-      <br>PostgreSQL
+      <br>Xcode
     </td>
 
       
