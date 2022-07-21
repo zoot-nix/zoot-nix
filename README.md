@@ -106,9 +106,9 @@
 ---
 
 ----
-Credits: [devboyarif](https://github.com/devboyarif)
+[Credits](https://github.com/devboyarif)
 
-Last Edited on: 4/3/2022
+Last Edited on: 21/7/2022
 
 <!---
 zoot-nix/zoot-nix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
