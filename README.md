@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Owais Shaikh 👋</h1>
 
 ## :sassy_man:  About me
-- :school: I am an `IT Student` at Mumbai University.
-- :student: I’ve recently graduated with my Bachelors Degree in `Information Technology`.
+- :student: An `IT Graduate` from Mumbai University.
 - :technologist: I love using Software as a solution for every `Problem`
 - :thinking: I’m currently open for: `An Intern` and this is my [PORTFOLIO](http://owaishaikh.github.io/portfolio/).
 - :nerd_face: Always learning new things.
