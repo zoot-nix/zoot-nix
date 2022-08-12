@@ -21,7 +21,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
-  <tr>
+  <tr> 
+     <td align="center"  width="96">
+        <a href="#swift" >
+        <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="48" height="48" alt="swift" />
+      </a>
+      <br>Swift
+    </td>
+     <td align="center"  width="96">
+      <a href="#python">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="python" />
+      </a>
+      <br>Python
+    </td>
       <td align="center" width="96">
       <a href="#html5">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
@@ -34,33 +46,33 @@
       </a>
       <br>CSS3
     </td>
+    <td align="center" width="96">
+      <a href="#js">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
      <td align="center" width="96">
       <a href="#bootstrap">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+     
+  </tr>
+   <tr>
+   <td align="center"  width="96">
+      <a href="#xcode">
+        <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" width="48" height="48" alt="xcode" />
       </a>
-      <br>Javascript
+      <br>Xcode
     </td>
-         <td align="center"  width="96">
-      <a href="#python">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="python" />
-      </a>
-      <br>Python
-    </td>
-     <td align="center"  width="96">
+      <td align="center"  width="96">
       <a href="#heroku">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="heroku" />
       </a>
       <br>Heroku
     </td>
-    
-  </tr>
-   <tr>
       <td align="center" width="96">
             <a href="#django">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="48" height="48" alt="Django" />
@@ -85,20 +97,6 @@
       </a>
       <br>VS Code
     </td>
-      <td align="center"  width="96">
-        <a href="#swift" >
-        <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="48" height="48" alt="swift" />
-      </a>
-      <br>Swift
-    </td>
-     <td align="center"  width="96">
-      <a href="#xcode">
-        <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" width="48" height="48" alt="xcode" />
-      </a>
-      <br>Xcode
-    </td>
-
-      
   </tr>
 </table>
 
@@ -106,7 +104,7 @@
 
 [Credits](https://github.com/devboyarif)
 
-Last Edited on: 21/7/2022
+Last Edited on: 12/8/2022
 
 <!---
 zoot-nix/zoot-nix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
